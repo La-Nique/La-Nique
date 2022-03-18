@@ -1,6 +1,17 @@
 ![gif-of-cyberpunk-cityscape](images/lanique_edit_rain.gif)
 
-under construction.
+![love](https://github.com/joshnatis/joshnatis/blob/master/pix/heart.gif) Create Beauty. Explore Curiously. Make Friends. Spread Positivity. Seek Understanding.
+
+<!-- Interests
+
+```txt
+hi
+```
+
+vi veri veniversum vivus vici -->
+
+[Click here to view my portfolio,](https://la-nique.github.io/portfolio/) which is still under construction...
+*(what can I say, I'm a studious developer & designer; I'm uninterested in using a template)*
 
 <!--
 **La-Nique/La-Nique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
