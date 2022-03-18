@@ -1,4 +1,4 @@
-![gif of cyberpunk cityscape](images/lanique_edit_rain.gif)
+![gif-of-cyberpunk-cityscape](images/lanique_edit_rain.gif)
 
 under construction.
 
