@@ -14,7 +14,8 @@ Spread Positivity. Seek Understanding. Fall in Love. ![love](https://github.com/
 
 ```txt
 * My name is Lanique
-* Book I am currently reading: 'The Chiffon Trenches: A Memoir' by André Leon Talley
+* Book I am currently reading:
+  'The Chiffon Trenches: A Memoir' by André Leon Talley
 * Fashion Designer:
   - Ex-Designer at Nike
 * Programmer:
