@@ -10,16 +10,13 @@
 ![love](https://github.com/joshnatis/joshnatis/blob/master/pix/heart.gif) Create Beauty. Explore Curiously. Make Friends.\
 Spread Positivity. Seek Understanding. Fall in Love. ![love](https://github.com/joshnatis/joshnatis/blob/master/pix/heart.gif)  
 
-
-
-
-### ✃Fashion Designer ⇄ Software_Developer
-
-<!-- Interests
+###### Interests
 
 ```txt
 hi
 ```
+
+<!-- ### ✃Fashion Designer ⇄ Software_Developer
 
 vi veri veniversum vivus vici -->
 
