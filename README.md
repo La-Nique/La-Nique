@@ -10,17 +10,29 @@
 ![love](https://github.com/joshnatis/joshnatis/blob/master/pix/heart.gif) Create Beauty. Explore Curiously. Make Friends.\
 Spread Positivity. Seek Understanding. Fall in Love. ![love](https://github.com/joshnatis/joshnatis/blob/master/pix/heart.gif)  
 
-###### Interests
+###### hi friends! here is a bit about me:
 
 ```txt
-hi
+* My name is Lanique
+* Book I am currently reading: 'The Chiffon Trenches: A Memoir' by André Leon Talley
+* Fashion Designer:
+  - Ex-Designer at Nike
+* Programmer:
+  - Software Development
+  - Augmented Reality
+  - Computer Vision (Artificial Intelligence)
+* Passions + Ponders:
+  - History
+  - Sociology
+  - Cooking
+  - Meditation + Mindfulness
+  - Music: Rock, Folk, K-Pop, R&B, Pop, Classical...
 ```
 
 <!-- ### ✃Fashion Designer ⇄ Software_Developer
 
 vi veri veniversum vivus vici -->
 
-\
 [Click here to view my portfolio,](https://la-nique.github.io/portfolio/) which is still under construction... ![love](https://github.com/joshnatis/joshnatis/blob/master/pix/heart.gif)\
 *(what can I say, I'm a studious developer & designer; I'm uninterested in using a template)*
 
