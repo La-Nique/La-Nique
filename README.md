@@ -7,9 +7,8 @@
 ![love](https://github.com/joshnatis/joshnatis/blob/master/pix/heart.gif) Seek Understanding.\
 ![love](https://github.com/joshnatis/joshnatis/blob/master/pix/heart.gif) Fall in Love.
  -->
-![love](https://github.com/joshnatis/joshnatis/blob/master/pix/heart.gif) Create Beauty. Explore Curiously.\
-Make Friends. Spread Positivity.\
-Seek Understanding. Fall in Love.![love](https://github.com/joshnatis/joshnatis/blob/master/pix/heart.gif)  
+![love](https://github.com/joshnatis/joshnatis/blob/master/pix/heart.gif) Create Beauty. Explore Curiously. Make Friends.\
+Spread Positivity. Seek Understanding. Fall in Love. ![love](https://github.com/joshnatis/joshnatis/blob/master/pix/heart.gif)  
 
 
 
@@ -25,7 +24,7 @@ hi
 vi veri veniversum vivus vici -->
 
 \
-[Click here to view my portfolio,](https://la-nique.github.io/portfolio/) which is still under construction...\
+[Click here to view my portfolio,](https://la-nique.github.io/portfolio/) which is still under construction... ![love](https://github.com/joshnatis/joshnatis/blob/master/pix/heart.gif)\
 *(what can I say, I'm a studious developer & designer; I'm uninterested in using a template)*
 
 <!--
