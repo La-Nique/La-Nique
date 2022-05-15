@@ -17,7 +17,7 @@ Spread Positivity. Seek Understanding. Fall in Love. ![love](https://github.com/
 * Book I am currently reading:
   'The Chiffon Trenches: A Memoir' by André Leon Talley
 * Fashion Designer:
-  - Ex-Designer at Nike
+  - Former Fashion Designer for Nike
 * Programmer:
   - Software Development
   - Augmented Reality
