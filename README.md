@@ -20,14 +20,14 @@ Spread Positivity. Seek Understanding. Fall in Love. ![love](https://github.com/
   - Former Fashion Designer for Nike
 * Programmer:
   - Software Development
-  - Augmented Reality
+  - Virtual + Augmented + Mixed Reality
   - Computer Vision (Artificial Intelligence)
 * Passions + Ponders:
   - History
   - Sociology
   - Cooking
   - Meditation + Mindfulness
-  - Music: Rock, Folk, K-Pop, R&B, Pop, Classical...
+  - Music: Rock, Classical, Folk, K-Pop, R&B, Pop...
 ```
 
 <!-- ### ✃Fashion Designer ⇄ Software_Developer
