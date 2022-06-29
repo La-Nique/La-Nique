@@ -20,7 +20,7 @@ Spread Positivity. Seek Understanding. Fall in Love. ![love](https://github.com/
   - Former Fashion Designer for Nike
 * Programmer:
   - Software Development
-  - Virtual + Augmented + Mixed Reality
+  - Augmented + Mixed Reality
   - Computer Vision (Artificial Intelligence)
 * Passions + Ponders:
   - History
