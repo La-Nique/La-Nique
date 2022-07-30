@@ -16,9 +16,9 @@ Spread Positivity. Seek Understanding. Fall in Love. ![love](https://github.com/
 * My name is Lanique
 * Book I am currently reading:
   'The Chiffon Trenches: A Memoir' by André Leon Talley
-* Fashion Designer:
+* Fashion Design:
   - Former Fashion Designer for Nike
-* Programmer:
+* Programming Interests:
   - Software Development
   - Augmented + Virtual + Mixed Reality
   - Computer Vision (Artificial Intelligence)
@@ -27,6 +27,7 @@ Spread Positivity. Seek Understanding. Fall in Love. ![love](https://github.com/
   - Sociology
   - Cooking
   - Meditation + Mindfulness
+  - Design: Illustration, Graphics, Sewing...
   - Music: Rock, Classical, Folk, K-Pop, R&B, Pop...
 ```
 
