@@ -37,7 +37,7 @@ Spread Positivity. Seek Understanding. Fall in Love. ![love](https://github.com/
 vi veri veniversum vivus vici
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=la-nique&layout=compact&theme=tokyonight&langs_count=6&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=la-nique&layout=compact&theme=tokyonight&langs_count=10&count_private=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=la-nique&&show_icons=true&theme=tokyonight&count_private=true&show_icons=true" />
 
 [Click here to view my portfolio,](https://github.com/La-Nique/portfolio) which is still under construction... ![love](https://github.com/joshnatis/joshnatis/blob/master/pix/heart.gif)\
