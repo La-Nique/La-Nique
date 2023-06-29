@@ -15,7 +15,7 @@ Spread Positivity. Seek Understanding. Fall in Love. ![love](https://github.com/
 ```txt
 * My name is Lanique
 * Book I am currently reading:
-  'The Chiffon Trenches: A Memoir' by André Leon Talley
+  'The Count of Monte Cristo' by Alexandre Dumas
 * Fashion Design:
   - Former Fashion Designer for Nike
 * Programming Interests:
