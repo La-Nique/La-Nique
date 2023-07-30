@@ -16,19 +16,22 @@ Spread Positivity. Seek Understanding. Fall in Love. ![love](https://github.com/
 * My name is Lanique
 * Book I am currently reading:
   'The Count of Monte Cristo' by Alexandre Dumas
-* Fashion Design:
-  - Former Fashion Designer for Nike
-* Programming Interests:
+* Tech Interests:
   - Software Development
   - Extended Reality
-  - Artificial Intelligence
+  - Artificial Intelligence 
+* Fashion Design:
+  - Nike Fashion Designer
+  - Fashion Institute of Technology Alumna
 * Passions + Ponders:
-  - History
-  - Sociology
-  - Cooking
-  - Meditation + Mindfulness
-  - Design: Illustration, Graphics, Sewing...
-  - Music: Rock, Classical, Folk, K-Pop, R&B, Pop...
+  - Personal Finance | Financial Freedom
+  - Mindfulness + Meditation
+  - Gaming : Chess, Poker, Checkers | MMORPGs, FPS, Battle Royal | @Ninja @Nickmercs
+  - Health : Fitness, Cooking
+  - Studies: History, Philosophy, Sociology, Maths
+  - Music  : Rock, Classical, Folk, 90-00's Pop...
+  - Favorite Bands/Musicians: The Cure, Pierce The Veil, Taylor Swift, FKA Twigs
+  - My Art : Fashion, Illustration, Graphic, Sewing, Photography...
 ```
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=la-nique&layout=compact&theme=tokyonight&langs_count=10&count_private=true" />
