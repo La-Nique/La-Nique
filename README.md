@@ -18,20 +18,20 @@ Spread Positivity. Seek Understanding. Fall in Love. ![love](https://github.com/
   'The Count of Monte Cristo' by Alexandre Dumas
 * Tech Interests:
   - Software Development
-  - Extended Reality
-  - Artificial Intelligence 
+  - Extended Reality (AR, VR, MR)
+  - Artificial Intelligence & Data Science
 * Fashion Design:
-  - Nike Fashion Designer
+  - Former Nike Fashion Designer
   - Fashion Institute of Technology Alumna
 * Passions + Ponders:
   - Personal Finance | Financial Freedom
   - Mindfulness + Meditation
-  - Gaming : Chess, Poker, Checkers | MMORPGs, FPS, Battle Royal | @Ninja @Nickmercs
+  - Gaming : Chess, Poker, Checkers | MMORPGs, FPS, Battle Royale, RPGs
   - Health : Fitness, Cooking
   - Studies: History, Philosophy, Sociology, Maths
   - Music  : Rock, Classical, Folk, 90-00's Pop...
-  - Favorite Bands/Musicians: The Cure, Pierce The Veil, Taylor Swift, FKA Twigs
-  - My Art : Fashion, Illustration, Graphic, Sewing, Photography...
+  - Favorite Bands/Musicians: The Cure, Pierce The Veil
+  - My Art : Fashion, Illustration, Graphic, Sewing...
 ```
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=la-nique&layout=compact&theme=tokyonight&langs_count=10&count_private=true" />
